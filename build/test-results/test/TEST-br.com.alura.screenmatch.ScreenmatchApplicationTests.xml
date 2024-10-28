@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.alura.screenmatch.ScreenmatchApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-28T21:20:27" hostname="DESKTOP-GPGFVS0" time="0.995">
+  <properties/>
+  <testcase name="contextLoads()" classname="br.com.alura.screenmatch.ScreenmatchApplicationTests" time="0.995"/>
+  <system-out><![CDATA[18:20:24.955 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [br.com.alura.screenmatch.ScreenmatchApplicationTests]: ScreenmatchApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:20:25.116 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration br.com.alura.screenmatch.ScreenmatchApplication for test class br.com.alura.screenmatch.ScreenmatchApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.5)
+
+2024-10-28T18:20:25.755-03:00  INFO 18176 --- [screenmatch] [    Test worker] b.c.a.s.ScreenmatchApplicationTests      : Starting ScreenmatchApplicationTests using Java 17.0.13 with PID 18176 (started by rapha in F:\git\screenmatch)
+2024-10-28T18:20:25.757-03:00  INFO 18176 --- [screenmatch] [    Test worker] b.c.a.s.ScreenmatchApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-10-28T18:20:26.648-03:00  INFO 18176 --- [screenmatch] [    Test worker] b.c.a.s.ScreenmatchApplicationTests      : Started ScreenmatchApplicationTests in 1.236 seconds (process running for 2.995)
+{"Title":"Gilmore Girls","Year":"2000–2007","Rated":"TV-PG","Released":"05 Oct 2000","Runtime":"57S min","Genre":"Comedy, Drama","Director":"N/A","Writer":"Amy Sherman-Palladino","Actors":"Lauren Graham, Alexis Bledel, Keiko Agena","Plot":"A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut.","Language":"English","Country":"United States","Awards":"Won 1 Primetime Emmy. 23 wins & 85 nominations total","Poster":"https://m.media-amazon.com/images/M/MV5BMzM2OGZjMTItNzc2OS00YzA4LWE0ZTUtYzE5NjU0MTIyZjcyXkEyXkFqcGc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"}],"Metascore":"N/A","imdbRating":"8.2","imdbVotes":"153,310","imdbID":"tt0238784","Type":"series","totalSeasons":"7","Response":"True"}]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
